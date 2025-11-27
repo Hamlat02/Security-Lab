@@ -1,4 +1,5 @@
 # SIEM
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/b0b44d84-17dc-437d-8530-b32fb0f15693" />
 
 ## DEFINITION
 SIEM
